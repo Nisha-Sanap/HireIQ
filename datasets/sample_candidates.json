@@ -1,0 +1,82 @@
+[
+  {
+    "candidate_name": "Aarav Sharma",
+    "candidate_email": "aarav.sharma@techmail.com",
+    "skills": ["python", "java", "react", "docker", "kubernetes", "aws", "machine learning", "sql", "mongodb", "git"],
+    "category": "Information Technology",
+    "experience_years": 5,
+    "summary": "Full Stack Developer with 5 years of experience in Python, Java, and React. Skilled in cloud infrastructure (AWS), containerization (Docker/K8s), and ML model deployment."
+  },
+  {
+    "candidate_name": "Priya Patel",
+    "candidate_email": "priya.patel@dataworks.io",
+    "skills": ["python", "tensorflow", "pytorch", "pandas", "numpy", "scikit-learn", "sql", "tableau", "data visualization", "statistics"],
+    "category": "Data Science",
+    "experience_years": 4,
+    "summary": "Data Scientist with expertise in machine learning, deep learning, and statistical analysis. Experience with TensorFlow, PyTorch, and data visualization tools."
+  },
+  {
+    "candidate_name": "Rahul Verma",
+    "candidate_email": "rahul.v@webdev.com",
+    "skills": ["javascript", "typescript", "react", "angular", "node.js", "express", "mongodb", "html", "css", "tailwind"],
+    "category": "Information Technology",
+    "experience_years": 3,
+    "summary": "Frontend Engineer specializing in React and Angular with 3 years of experience building responsive, accessible web applications."
+  },
+  {
+    "candidate_name": "Sneha Desai",
+    "candidate_email": "sneha.desai@fintech.com",
+    "skills": ["python", "sql", "financial analysis", "risk management", "excel", "power bi", "bloomberg", "compliance", "accounting"],
+    "category": "Finance",
+    "experience_years": 6,
+    "summary": "Financial Analyst with 6 years in banking and fintech. Expert in risk management, compliance, and financial modeling using Python and SQL."
+  },
+  {
+    "candidate_name": "Arjun Reddy",
+    "candidate_email": "arjun.r@cloudops.io",
+    "skills": ["aws", "azure", "terraform", "docker", "kubernetes", "jenkins", "python", "linux", "ci/cd", "monitoring"],
+    "category": "Information Technology",
+    "experience_years": 7,
+    "summary": "DevOps Engineer with 7+ years of experience in cloud infrastructure, CI/CD pipelines, and container orchestration across AWS and Azure."
+  },
+  {
+    "candidate_name": "Meera Joshi",
+    "candidate_email": "meera.j@healthtech.org",
+    "skills": ["python", "r", "healthcare", "clinical", "data analysis", "hipaa", "ehr", "statistics", "public health"],
+    "category": "Healthcare",
+    "experience_years": 4,
+    "summary": "Health Informatics Specialist with experience in clinical data systems, HIPAA compliance, and public health analytics."
+  },
+  {
+    "candidate_name": "Vikram Singh",
+    "candidate_email": "vikram.s@marketpro.com",
+    "skills": ["digital marketing", "seo", "google ads", "social media", "content marketing", "analytics", "hubspot", "email marketing", "copywriting"],
+    "category": "Marketing",
+    "experience_years": 5,
+    "summary": "Digital Marketing Manager with 5 years of experience in SEO, paid advertising, and content strategy for B2B SaaS companies."
+  },
+  {
+    "candidate_name": "Ananya Krishnan",
+    "candidate_email": "ananya.k@designstudio.com",
+    "skills": ["figma", "sketch", "adobe xd", "ui design", "ux design", "user research", "wireframe", "prototype", "html", "css"],
+    "category": "Design",
+    "experience_years": 3,
+    "summary": "UX/UI Designer with expertise in Figma, user research, and design systems. 3 years creating intuitive interfaces for mobile and web products."
+  },
+  {
+    "candidate_name": "Karthik Nair",
+    "candidate_email": "karthik.n@mlabs.ai",
+    "skills": ["python", "machine learning", "deep learning", "nlp", "computer vision", "tensorflow", "pytorch", "spark", "hadoop", "docker"],
+    "category": "Data Science",
+    "experience_years": 6,
+    "summary": "ML Engineer with 6 years experience building production ML pipelines. Expert in NLP, computer vision, and distributed computing with Spark."
+  },
+  {
+    "candidate_name": "Divya Gupta",
+    "candidate_email": "divya.g@backend.dev",
+    "skills": ["java", "spring boot", "microservices", "postgresql", "redis", "kafka", "docker", "kubernetes", "rest api", "junit"],
+    "category": "Information Technology",
+    "experience_years": 5,
+    "summary": "Backend Engineer specializing in Java and Spring Boot microservices. 5 years building scalable, distributed systems with Kafka and Redis."
+  }
+]

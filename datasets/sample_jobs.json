@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Senior Python Developer",
+    "company": "TechCorp Solutions",
+    "description": "We are looking for a Senior Python Developer to join our backend engineering team. The ideal candidate will have strong experience with Python, FastAPI or Django, and database systems. Responsibilities include designing RESTful APIs, implementing microservices architecture, working with cloud platforms (AWS/GCP), and mentoring junior developers. Experience with Docker, CI/CD pipelines, and agile methodologies is required.",
+    "required_skills": ["python", "fastapi", "docker", "aws", "sql", "git", "rest api"],
+    "preferred_skills": ["kubernetes", "redis", "mongodb", "machine learning"],
+    "experience_level": "senior",
+    "location": "Remote",
+    "job_type": "full-time"
+  },
+  {
+    "title": "Data Scientist",
+    "company": "DataDriven Inc",
+    "description": "Join our data science team to build predictive models and derive insights from large datasets. You will work with machine learning algorithms, deep learning frameworks (TensorFlow/PyTorch), and big data tools. Strong statistical background required. Responsibilities include feature engineering, model development, A/B testing, and presenting findings to stakeholders.",
+    "required_skills": ["python", "machine learning", "tensorflow", "pandas", "sql", "statistics"],
+    "preferred_skills": ["pytorch", "spark", "docker", "tableau", "nlp"],
+    "experience_level": "mid",
+    "location": "Bangalore",
+    "job_type": "full-time"
+  },
+  {
+    "title": "Frontend React Developer",
+    "company": "WebUI Studios",
+    "description": "Looking for a React developer to build modern, responsive web applications. Must have strong experience with React.js, TypeScript, and state management. Knowledge of responsive design, accessibility standards, and modern CSS (Tailwind/Styled Components) is essential. Experience with testing frameworks and CI/CD is a plus.",
+    "required_skills": ["react", "javascript", "typescript", "html", "css", "git"],
+    "preferred_skills": ["tailwind", "next.js", "jest", "figma"],
+    "experience_level": "mid",
+    "location": "Hyderabad",
+    "job_type": "full-time"
+  }
+]
